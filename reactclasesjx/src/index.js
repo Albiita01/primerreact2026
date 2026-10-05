@@ -3,17 +3,12 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import Saludo from './components/Saludo';
-import Metodos from './components/Metodos';
-import DobleNumero from './components/DobleNumero';
+import Contador from './components/Contador';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Metodos/>
-    <Saludo nombre="Alba" edad="25"/>
-    <Saludo nombre="Niko" edad="22"/>
-    <DobleNumero />
+    <Contador/>
   </React.StrictMode>
 );
 
