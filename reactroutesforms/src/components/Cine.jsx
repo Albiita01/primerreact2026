@@ -5,7 +5,7 @@ export default class Cine extends Component {
         return (
             <div>
                 <h1>Cine</h1>
-                <img src="https://www.google.com/imgres?q=cine%20img&imgurl=https%3A%2F%2Fcinesimf.com%2Fuploads%2Fcontent%2Fcabeceras%2Fcabecera-contacto.jpg&imgrefurl=https%3A%2F%2Fcinesimf.com%2Fes%2Finfo%2Fpreguntas-frecuentes&docid=7uxcKRE1WDz6zM&tbnid=XOvpO4nS5gLbAM&vet=12ahUKEwjhh9fI6KKXAxUPKvsDHS1FJNcQnPAOegQILhAA..i&w=1600&h=569&hcb=2&ved=2ahUKEwjhh9fI6KKXAxUPKvsDHS1FJNcQnPAOegQILhAA" style={{ width: "120px", height: "80px" }} />
+                <img style={{ width: "270px", height: "200px" }} src="https://www.magnific.com/es/foto-gratis/disposicion-primeros-planos-objetos-cine_7089735.htm#fromView=keyword&page=1&position=0&uuid=e7f44f98-89ab-4488-9fc2-bf5957e0b563&track=ais_hybrid&query=Cine" />
             </div>
         )
     }
